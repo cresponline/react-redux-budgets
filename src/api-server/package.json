@@ -1,0 +1,10 @@
+{
+  "name": "node-api-rest-budgets",
+  "version": "1.0.0",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "method-override": "^2.3.9",
+    "node-rest-client": "^3.1.0"
+  }
+}

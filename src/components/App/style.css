@@ -1,0 +1,32 @@
+.header.navbar {
+  margin-bottom: 100px;
+  background-color: #e3f2fd;
+}
+
+.navbar-title {
+  color: #31708f !important;
+}
+
+.navbar-title:hover {
+  color: #6ebcf5 !important;
+}
+
+.navbar-footer {
+  color: #31708f !important;
+}
+
+.navbar-footer:hover {
+  color: #6ebcf5 !important;
+}
+
+.footer.navbar {
+  margin-top: 100px;
+}
+
+.Select-clear-zone {
+  display: none !important;
+}
+
+.btn {
+  cursor: pointer;
+}
