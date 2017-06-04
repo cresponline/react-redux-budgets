@@ -1,20 +1,15 @@
 # Setup
 run commands:
-  cd /react-redux-budgets
-  npm install
+  cd /react-redux-budgets && npm install
 
-  cd /react-redux-budgets/src/server-api
-  npm install
+  cd /react-redux-budgets/src/server-api && npm install
 
 ## Run
   run commands:
-  cd /react-redux-budgets/src/server-api
-  node app.js
+  cd /react-redux-budgets/src/server-api && node app.js
 
-  cd /react-redux-budgets/
-  npm run dev
+  cd /react-redux-budgets/ && npm run dev
 
 ## Test
   run commands:
-  cd /react-redux-budgets/
-  npm run test
+  cd /react-redux-budgets/ && npm run test
