@@ -13,3 +13,8 @@ run commands:
 
   cd /react-redux-budgets/
   npm run dev
+
+## Test
+  run commands:
+  cd /react-redux-budgets/
+  npm run test
