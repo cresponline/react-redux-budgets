@@ -1,4 +1,4 @@
-#Setup
+# Setup
 run commands:
   cd /react-redux-budgets
   npm install
@@ -6,7 +6,7 @@ run commands:
   cd /react-redux-budgets/src/server-api
   npm install
 
-  #Run
+## Run
   run commands:
   cd /react-redux-budgets/src/server-api
   node app.js
