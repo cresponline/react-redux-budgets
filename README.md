@@ -1,10 +1,14 @@
-# Setup
-  cd /react-redux-budgets && npm install
-  cd /react-redux-budgets/src/server-api && npm install
+# Clone
+  git clone https://github.com/cresponline/react-redux-budgets.git
 
-## Run
-  cd /react-redux-budgets/src/server-api && node app.js
-  cd /react-redux-budgets/ && npm run dev
+## Setup
+  cd react-redux-budgets && npm install && cd src/api-server/ && npm install
+
+## Run client
+  In project root (react-redux-budgets/): npm run dev
+
+## Run api-server
+  In /react-redux-budgets/src/server-api: node app.js
 
 ## Test
-  cd /react-redux-budgets/ && npm run test
+  In project root (react-redux-budgets/): npm run test
