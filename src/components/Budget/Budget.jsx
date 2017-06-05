@@ -4,7 +4,7 @@ import { connect } from 'react-redux';
 import { bindActionCreators } from 'redux';
 import { browserHistory } from 'react-router';
 
-import * as budgetActions from '../../actions/BudgetActions';
+import * as budgetActions from '../../actions/budgetActions';
 
 class Budget extends Component {
   constructor (props, context) {

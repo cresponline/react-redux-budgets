@@ -7,7 +7,7 @@ import { browserHistory } from 'react-router';
 import Select from 'react-select';
 import 'react-select/dist/react-select.css';
 
-import * as descriptionActions from '../../actions/DescriptionActions';
+import * as descriptionActions from '../../actions/descriptionActions';
 
 export class Description extends Component {
   constructor (props, context) {
